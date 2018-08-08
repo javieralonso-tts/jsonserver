@@ -2,14 +2,76 @@
 	"faqSections":[
 		{
 			"sectionId":"1",
-			"name":"section name"
+			"name":"section name 1"
+		},
+		{
+			"sectionId":"2",
+			"name":"section name 2 "
+		},
+		{
+			"sectionId":"3",
+			"name":"section name 3"
+		},
+		{
+			"sectionId":"4",
+			"name":"section name 4"
 		}
 	],
 	"faq_details":[
 		{
 			"faqId":"1",
 			"question":"Question",
-			"answer":"Answer"
-		}
+			"answer":"Answer",
+			"sectionId":"1"
+		},
+		{
+			"faqId":"2",
+			"question":"Question",
+			"answer":"Answer",
+			"sectionId":"1"
+		},
+		{
+			"faqId":"3",
+			"question":"Question",
+			"answer":"Answer",
+			"sectionId":"1"
+		},
+		{
+			"faqId":"4",
+			"question":"Question",
+			"answer":"Answer",
+			"sectionId":"2"
+		},
+		{
+			"faqId":"4",
+			"question":"Question",
+			"answer":"Answer",
+			"sectionId":"3"
+		},
+		{
+			"faqId":"5",
+			"question":"Question",
+			"answer":"Answer",
+			"sectionId":"3"
+		},
+		{
+			"faqId":"6",
+			"question":"Question",
+			"answer":"Answer",
+			"sectionId":"3"
+		},
+		{
+			"faqId":"7",
+			"question":"Question",
+			"answer":"Answer",
+			"sectionId":"3"
+		},
+		{
+			"faqId":"8",
+			"question":"Question",
+			"answer":"Answer",
+			"sectionId":"3"
+		},
+
 	]		
 }
