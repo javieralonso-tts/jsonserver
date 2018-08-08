@@ -1,0 +1,15 @@
+{
+	"faqSections":[
+		{
+			"sectionId":"1",
+			"name":"section name"
+		}
+	],
+	"faq_details":[
+		{
+			"faqId":"1",
+			"question":"Question",
+			"answer":"Answer"
+		}
+	]		
+}
